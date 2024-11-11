@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
                   icon: Icon(Icons.search),
                 ),
                 BottomNavigationBarItem(
-                  label: "Profile",
+                  label: "userpage",
                   icon: Icon(Icons.camera),
                 ),
               ],
