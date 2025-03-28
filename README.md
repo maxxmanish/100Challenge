@@ -5,4 +5,15 @@ _This Github Repository will Host all My Codebase:_
 
 ##START DATE: 17/9/24
 
+Old Code can be found in the Archived Folder of this repository.
+Current Active Version is kept on the outside.
+
+To create a Flutter template app using the terminal, follow these steps:
+
+Use the flutter create command to create a new Flutter project:
+
+```
+flutter create <project_name>
+```
+
 Contact Me on Linkedin: https://www.linkedin.com/in/manish-kushwah-437690255/
