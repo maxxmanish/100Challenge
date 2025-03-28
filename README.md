@@ -15,5 +15,10 @@ Use the flutter create command to create a new Flutter project:
 ```
 flutter create <project_name>
 ```
+To Run Application
+```
+cd <project_name>
+flutter run
+```
 
 Contact Me on Linkedin: https://www.linkedin.com/in/manish-kushwah-437690255/
